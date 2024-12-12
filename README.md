@@ -34,13 +34,13 @@ python AutoMail-Outlook.py
 4. The script will generate email drafts for each recipient in your Outlook inbox. Review the drafts and send them manually.
 
 ## Limitations
-• Drafts Only: The script does not send emails directly—only drafts are created in Outlook.
-• Outlook Specific: This script currently only works with Microsoft Outlook. Future versions may support other email clients.
+- Drafts Only: The script does not send emails directly—only drafts are created in Outlook.
+- Outlook Specific: This script currently only works with Microsoft Outlook. Future versions may support other email clients.
 
 ## Potential Enhancements
-• Email Sending: Add functionality to automatically send emails after creating drafts.
-• Logging: Implement logging to capture errors and script status.
-• Other Email Clients: Extend compatibility to other clients like Gmail or Thunderbird.
+- Email Sending: Add functionality to automatically send emails after creating drafts.
+- Logging: Implement logging to capture errors and script status.
+- Other Email Clients: Extend compatibility to other clients like Gmail or Thunderbird.
 
 ## Contributing
 Feel free to open issues or create pull requests if you want to contribute improvements or bug fixes.
